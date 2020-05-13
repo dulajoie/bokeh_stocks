@@ -9,3 +9,5 @@ docker run --rm -v $PWD\..\ressourcces:/opt/app/ressources -p 5006:5006 --name p
 
 You can view the result on http://localhost:5006/test1
 You can edit ressouces/test1.py an reload the page ; the "--dev" option in the Dockerfile CMD section is there to allow dynamic reload.
+
+![](Bokeh.PNG)
