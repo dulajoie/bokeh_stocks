@@ -1,4 +1,7 @@
 # bokeh_stocks
+
+# needs to install Docker 
+
 plot stocks value and more with python
 
 Edit the ressources/config.ini file to set your alphavantage.co key.
